@@ -1,4 +1,5 @@
-
+// Optimized java implementation
+// of Bubble sort
 import java.io.*;
 
 class GFG
@@ -48,5 +49,10 @@ class GFG
 		System.out.println("Sorted array: ");
 		printArray(arr, n);
 	}
+}
+
+
+// This code is contributed
+// by Nikita Tiwari.
 }
 
